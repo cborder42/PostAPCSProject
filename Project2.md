@@ -1,4 +1,5 @@
-# Project 2 (Update with actual Title)
+# Project 2 A Quite Okay Image format decompiler
+
 
 **Stage 1:**  Proposal
 
