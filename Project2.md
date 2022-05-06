@@ -1,4 +1,4 @@
-# Project 2 (Update with actual Title)
+# Light Graphics
 
 **Stage 1:**  Proposal
 
