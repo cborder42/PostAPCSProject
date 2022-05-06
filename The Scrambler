@@ -1,0 +1,8 @@
+Proposal: 
+
+  A word game made by four people (two from F block, two from E block). It would consist of a 5x5 2D array of different letters. Similar to the Game 
+  Pigeon game Word Hunt, the user has to find words based on letters that are close to each other. However, every time a word is entered, the board will 
+  scramble with new letters. Longer words are worth more points, and the high score after a series of boards will be recorded. Future players will aim to 
+  beat the high score. There might be slight changes in this design later that will make the game/code harder.
+ 
+
