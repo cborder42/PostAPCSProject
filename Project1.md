@@ -1,4 +1,4 @@
-# Project 1 (Update with Title)
+# One Word Anagram
 
 **Stage 1:**  Proposal
 
