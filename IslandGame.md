@@ -27,3 +27,5 @@ Methods include:
 
 - [ ] New Java - your proposal/project must require you to utilize some new code structures.  This could include learning how to read/write files into a JAVA program, rudimentary graphics, or some utilize some other `class` for your project.
 - [ ] Division of labor:  who will do what in this project?  Is there enough required to justify the time and number of people?  This will be the sole task which you will be engaged in during class time, but there is minimal expectation for work outside of class (unless you are not meeting your goals).
+
+All the different methods and different classes will be divided up between different people. Island.java will be the most complicated class to code as it has all the methods, so all of us will start with that first. Since some methods are more complicated than others, people wont necessarily write the same number of methods, but everyone will do an equal amount of work in that class. 
