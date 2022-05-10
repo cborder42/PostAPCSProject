@@ -30,8 +30,3 @@ Methods include:
 -  
 
 - [ ] Anticipated file structure (i.e. what classes will you write, where will the `main` method exist?  Show me that you have thought enough about this problem or project to begin to recognize some of the complexity you will need to account for.
-
-*A Main.java, Island.java and Player.java; Scanner class* 
-
-- [ ] New Java - your proposal/project must require you to utilize some new code structures.  This could include learning how to read/write files into a JAVA program, rudimentary graphics, or some utilize some other `class` for your project.
-- [ ] Division of labor:  who will do what in this project?  Is there enough required to justify the time and number of people?  This will be the sole task which you will be engaged in during class time, but there is minimal expectation for work outside of class (unless you are not meeting your goals).
