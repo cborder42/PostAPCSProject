@@ -2,12 +2,10 @@
 
 **Stage 1:**  Proposal
 
-A proposal for a project requires at least three students,
-with at least one student from each block!  (This will require
-you to utilize GitHub and learn about branches, commits, and pulls.)
-The proposal must address each of the following:
+An image compiler that uses the Quite Okay Image format to compress a set of values. To do this we will access an image and grab the rgb data from that. With this information formated in 2d arrays and using QOI formating we will write a compiler to compress this down. The practical use of this would be to get an understanding of how QOI works and making something that hopefully has similar quality to .png but is up to 50times faster.
 
-- [ ] General description of the goal or purpose.  What are you trying to make happen or solve?  Feel free to design projects which utilize content from other courses (simulations, for example), address and analyze real daata and problems (the environment, anyone?), or have other useful impacts.
-- [ ] Anticipated file structure (i.e. what classes will you write, where will the `main` method exist?  Show me that you have thought enough about this problem or project to begin to recognize some of the complexity you will need to account for.
-- [ ] New Java - your proposal/project must require you to utilize some new code structures.  This could include learning how to read/write files into a JAVA program, rudimentary graphics, or some utilize some other `class` for your project.
-- [ ] Division of labor:  who will do what in this project?  Is there enough required to justify the time and number of people?  This will be the sole task which you will be engaged in during class time, but there is minimal expectation for work outside of class (unless you are not meeting your goals)
+For the file structure of this project it would probably two files `compiler` and the `image_analyzer`. The `image_analyzer` will be the class that takes in an image and then grabs the rgb a values and stores them in 2d arrays. While the `compiler` will get that information and utilize it to compress down the image.
+
+The new java comes in when it comes to opening an image and grabing the data values of each pixel to store into a new array. This is because we haven't touched files yet let alone images. Along with opening it the program will need to be able to read it and grab data values from it.
+
+For the division of labor this is a smaller project. It probably only requires 3 or 4 people with a heavy hand initialy working on the `image_analyzer` to learn the new concepts and build a strong base for the person who is working on the `compiler` to build off of. Interms of time invested it probably will be very close to 5 days as you will need to learn new libraries and how the QOI image format works. 
