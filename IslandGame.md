@@ -13,6 +13,14 @@ The proposal must address each of the following:
 
 The player will face many obsticles on the island, such as finding food/water, making shelter, extreme temperatures, being chased by wild animals. These obsticles will be created by different methods in the Island.java class. 
 
+Methods include: 
+- every day, you lose five food resources
+- every  day, you lose 3 water resource 
+- every challenge completed you earn a random number of food resources 
+- can get water by playing a guessing game 
+- Temp Method: if random temp is above 110*, and wearing extra layer of clothes, you will lose 10 water resources; if random temp is below 32*, and wearing no exta layers, you will lose 10 water and 10 food resources.
+- Resource Method: keeps track of all the resources including: food, water, clothes, blankets, wood, knife.
+
 - [ ] Anticipated file structure (i.e. what classes will you write, where will the `main` method exist?  Show me that you have thought enough about this problem or project to begin to recognize some of the complexity you will need to account for.
 
 *A Main.java, Island.java and Player.java* 
