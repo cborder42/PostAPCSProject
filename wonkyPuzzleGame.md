@@ -1,6 +1,10 @@
-# wonky puzzle game
+# wonky puzzle game proposed by felix celina and zoe (checking if fiona wants to join)
 
 **Stage 1:**  Proposal
+
+So the basic idea is that we're making a digital puzzle game. 
+
+A picture could be pre-uploaded/prepared or the player could upload a picture themselves (still have to decide which one we're doing) then selects the number of puzzle pieces (preferably a composite number). Our code would split the original picture into the determined number of pieces, marking each piece going left to right, top to bottom to keep track of where the puzzle pieces are supposed to be. Then the puzzle gets scrambled and pieces now get labeled left to right, top to bottom again, except their pre-scramble-assigned numbers stay with them. The scrambled image, which will probably be like a 2D array of smaller pictures or something (still have to understand how images work), will then be displayed, with their post-scramble numbers displayed somewhere for the player to keep track. A grid will then be displayed, corresponding to the puzzle size, and the player can enter their answers there by entering the post-scramble numbers back into the right boxes. We then would have to compare the pre- and post-scramble numbers and see if they match somehow (perhaps each puzzle piece would have two integer variables, a pre- and post-scramble number). If they do, then we congratulate the player and display the original image. If they don't match, then we tell them wrong, redisplay the scrambled image and answer grid, and the game goes on. If the player wants to quit at any point they should be able tojust enter "stop" or something else and the game should end right there. 
 
 A proposal for a project requires at least three students,
 with at least one student from each block!  (This will require
