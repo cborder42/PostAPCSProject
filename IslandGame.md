@@ -9,14 +9,13 @@ The proposal must address each of the following:
 
 - [ ] General description of the goal or purpose.  What are you trying to make happen or solve?  Feel free to design projects which utilize content from other courses (simulations, for example), address and analyze real daata and problems (the environment, anyone?), or have other useful impacts.
 
-*A game where the player makes choices for the main character in the game, who has just become stranded on an island. The player is shown the amount of resources they have at the beginning (randomly generated). There are obstacles on the island, and you can gain or lose resources as you try to survive the game. If you survive for 2 weeks, the safety boat will arrive. 
+*A game where the player makes choices for the main character in the game, who has just become stranded on an island. The player is shown the amount of resources they have at the beginning (randomly generated). There are obstacles on the island, and you can gain or lose resources as you try to survive the game. If you survive for 2 weeks, the safety boat will arrive.*
 
-More Details: 
-The player will be shown questions are on the screen in which they can input their answers. Based on their inputs or decisions, the game will give them different obstables. *
+The player will face many obsticles on the island, such as finding food/water, making shelter, extreme temperatures, being chased by wild animals. These obsticles will be created by different methods in the Island.java class. 
 
 - [ ] Anticipated file structure (i.e. what classes will you write, where will the `main` method exist?  Show me that you have thought enough about this problem or project to begin to recognize some of the complexity you will need to account for.
 
-*A Main.java, Island.java and Player.java*
+*A Main.java, Island.java and Player.java* 
 
 - [ ] New Java - your proposal/project must require you to utilize some new code structures.  This could include learning how to read/write files into a JAVA program, rudimentary graphics, or some utilize some other `class` for your project.
 - [ ] Division of labor:  who will do what in this project?  Is there enough required to justify the time and number of people?  This will be the sole task which you will be engaged in during class time, but there is minimal expectation for work outside of class (unless you are not meeting your goals).
