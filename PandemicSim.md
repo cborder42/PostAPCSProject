@@ -33,5 +33,8 @@ Note: these ideas are not final, may or may not be in the final project
 -	Simulation graphs, of number of population dead, infected and healthy (if possible)
 -	Virus growth simulated by exponential growth
 -	Virus mutations, changing the r0, and difficulty to create vaccine (ie. longer vaccine time, lower availability)
--	Average age distribution adjustment, calculated based on a Gaussian curve
+-	Average age distribution adjustment, calculated based on a Bell curve
 
+Distribution of Labor:
+This project will require 3 people or more, and learning of the swing GUI by at least one member.
+If more members are added, the project can be scalable, adding more ideas as the project expands.
