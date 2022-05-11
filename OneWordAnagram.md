@@ -2,7 +2,7 @@
 
 **Description:**
 
-One Word Anagram is a game where you must guess any existing word using all the letters given to you. If you guess the word correctly, you will progress to the next level and gain a score. You will have a total of 5 minutes to get to level 7 where an additional letter is added for every level progressed. 
+One Word Anagram is a game where you must guess any existing word using all the letters given to you. If you guess the word correctly, you will progress to the next level and your score will increase. You will have a total of 5 minutes to complete as many levels you can. In each level, the number of letters in each word is increased with an additional letter is added for every level progressed. 
 
 This game is a puzzle, made for friends to compete or play together.
 
@@ -31,6 +31,7 @@ Classes we will write:
 1. GameClass (contains Main method)
 2. WordClass, UserClass
 
+1 person will work on each class (WordClass, GameClass, UserClass and the Frontend).
 
 - [ ] General description of the goal or purpose.  What are you trying to make happen or solve?  Feel free to design projects which utilize content from other courses (simulations, for example), address and analyze real daata and problems (the environment, anyone?), or have other useful impacts.
 - [ ] Anticipated file structure (i.e. what classes will you write, where will the `main` method exist?  Show me that you have thought enough about this problem or project to begin to recognize some of the complexity you will need to account for.
