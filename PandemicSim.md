@@ -2,6 +2,7 @@
 ## Authored by Daniel Welicki, Joshua Wu, and Aryav Taneja
 
 **Stage 1:**  Proposal
+test
 
 Goal: Create a simulator to accurately predict the spread of a fictional disease.
 
