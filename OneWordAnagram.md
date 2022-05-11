@@ -33,6 +33,21 @@ Classes we will write:
 
 1 person will work on each class (WordClass, GameClass, UserClass and the Frontend).
 
+**Additional Things**
+
+New shapes with multiple words like a crossword puzzle.
+
+Example:
+G D A R
+E M
+
+Example:
+   G
+   A
+   M
+ R E D
+ 
+
 - [ ] General description of the goal or purpose.  What are you trying to make happen or solve?  Feel free to design projects which utilize content from other courses (simulations, for example), address and analyze real daata and problems (the environment, anyone?), or have other useful impacts.
 - [ ] Anticipated file structure (i.e. what classes will you write, where will the `main` method exist?  Show me that you have thought enough about this problem or project to begin to recognize some of the complexity you will need to account for.
 - [ ] New Java - your proposal/project must require you to utilize some new code structures.  This could include learning how to read/write files into a JAVA program, rudimentary graphics, or some utilize some other `class` for your project.
