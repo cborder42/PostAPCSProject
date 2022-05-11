@@ -9,5 +9,5 @@ Multiple user game. One user will start out drawing on a blank canvas based on a
 - System will rank the users based on points, awarding the top 3 players
 - Graphic at the end to display ranking
 
-
 - A real-time updating screen is ideal, displaying what the user is drawing to everyone else while the drawing is still in progress
+- We can have a timer graphic as well counting down the time if it is possible to have a real-time updating screen and display words that people are guessing so that they can be inspired by each other as long as it is not the correct answer because then everyone will copy each other like in the real skribbl.io game
