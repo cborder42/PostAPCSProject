@@ -6,7 +6,7 @@ A proposal for a project requires at least three students, with at least one stu
 
 •	  General description of the goal or purpose. What are you trying to make happen or solve? Feel free to design projects which utilize content from other courses (simulations, for example), address and analyze real daata and problems (the environment, anyone?), or have other useful impacts.
 
-Monopoly board game. Multiplayer on the same computer, or game against bots. 
+Monopoly board game. We will have dice(random chance), arrays for cards, an Array of objects for hotels. Player objects, multiplayer on the same computer, or game against bots. 
 
 •	  Anticipated file structure (i.e. what classes will you write, where will the main method exist? Show me that you have thought enough about this problem or project to begin to recognize some of the complexity you will need to account for.
 
