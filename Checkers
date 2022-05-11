@@ -1,0 +1,5 @@
+Chess 
+
+Two people from E block, one or two from E. A 2D array of piece objects that move according to the rules of checkers. There would probably be 
+graphics to show the board and each piece moving. Player one and player two would take turns moving the piece. Each piece has rules according to 
+the game.
