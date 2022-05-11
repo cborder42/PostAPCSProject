@@ -1,0 +1,5 @@
+A 2D array fliied with peice objects. The peice class would be the super class for a number of subclasses: pawn, bishop, king, etc. Each peice would have instance vairables for what team the peice is on and what position on the board is the peice on. The subclasses wouls also hold information on where each peice is allowed to move to.
+
+There are a couple of possible roles, a main game class would need to be created to initalize and run the game, A peice class, and a class for each type of peice.
+
+If the project is too easy graphics could be added to create a real board.
