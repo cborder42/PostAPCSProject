@@ -2,9 +2,6 @@ Solar System Planetary Graphics
 
 Stage 1: Proposal
 
-Light Graphics
-test Stage 1: Proposal
-
 The project will focus on creating a simple, visual simulation of the rotation of randomly generated planet objects orbiting a fixated sun object. 
 The program user can choose between randomized or customized numbers of planets, sun size, and planet sizes. Planets will have their own defined circular orbits, 
 centered around the sun and moving along the path at varying speeds and directions (these will always be randomized). Each planet will have a minimum distance
