@@ -1,0 +1,18 @@
+Solar System Planetary Graphics 
+
+Stage 1: Proposal
+
+Light Graphics
+test Stage 1: Proposal
+
+The project will focus on creating a simple, visual simulation of the rotation of randomly generated planet objects orbiting a fixated sun object. 
+The program user can choose between randomized or customized numbers of planets, sun size, and planet sizes. Planets will have their own defined circular orbits, 
+centered around the sun and moving along the path at varying speeds and directions (these will always be randomized). Each planet will have a minimum distance
+between orbits and from the sun. 
+
+There will be planet subclass in our solar system class, creating our planets. The main method will take in the user choice and customizations to generate
+our solar system. There will be methods for the movement of the planets and the graphics, and for spacing and sizing of planets. This project will be based
+on rudimentary graphics. 
+
+The division of work will be someone working on the solar system class (creating sun objects, the main methods, etc.) and will help with work on the planet 
+subclass (because it will probably be a lot more work). The other people will focus on the planet subclass and graphics (random placement, planet visuals). 
