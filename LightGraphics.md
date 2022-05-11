@@ -1,5 +1,5 @@
 # Light Graphics
-
+test
 **Stage 1:**  Proposal
 
 A proposal for a project requires at least three students,
