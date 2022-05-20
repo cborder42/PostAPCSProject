@@ -1,4 +1,4 @@
-Hayool Park, Edward Huang, Alec Odell 
+Hayool Park, Edward Huang
 **Stage 1:**  Proposal
 
 A proposal for a project requires at least three students,
